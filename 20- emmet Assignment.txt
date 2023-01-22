@@ -1,0 +1,9 @@
+1. What is Emmet?
+
+Ans: Emmet is a inbuild plugin for text editors that provides a set of shrtcuts and 
+     snippets.
+
+2. What are the advantages of using Emmet?
+
+Ans: Emmet is a plugin for quikly writing and editing HTML, CSS etc. It is designed to increase
+     the productivity of web developers and designers.
